@@ -1,6 +1,7 @@
 # CV
 
-JAVA BACKEND DEVELOPER
+<align="center">JAVA BACKEND DEVELOPER<>
+
 Константин Петров
 petrov.konctantin@yandex.ru | +79046005601 | https://t.me/Kostaspetrov
 https://github.com/KostyaPetrov | www.linkedin.com/in/petrovkonctantin
